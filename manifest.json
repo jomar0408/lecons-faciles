@@ -1,0 +1,17 @@
+{
+  "name": "Leçons Faciles",
+  "short_name": "Leçons",
+  "description": "Apprendre ses leçons plus facilement quand on a un TDAH : petits morceaux, mots expliqués, schémas et quiz.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f2ea",
+  "theme_color": "#3a7ca5",
+  "icons": [
+    { "src": "icones/icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icones/icone-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icones/icone-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
